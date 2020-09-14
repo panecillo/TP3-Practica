@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "764136766144",
+    "firebase_url": "https://tp3-ejercicio1.firebaseio.com",
+    "project_id": "tp3-ejercicio1",
+    "storage_bucket": "tp3-ejercicio1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764136766144:android:4896cefc9f41aca22d4b25",
+        "android_client_info": {
+          "package_name": "com.example.tp3_debarnot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764136766144-5slqfomb5iaa50es6sn64naogru8a208.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM7n-a16x5qP-krKIg8pOgEHuWWqoEdOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764136766144-5slqfomb5iaa50es6sn64naogru8a208.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
